@@ -7,7 +7,7 @@
 * 📊 Data Analyst
 * 📚 Researcher.
 * 👩‍🎓 Bachelor of Accounting -UFG.
-* 🎓 MBA in Statistic - FGV.
+* 🎓 MBA in Finance - FGV.
 
 ## Skills 👩‍💻
 
