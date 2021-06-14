@@ -1,16 +1,23 @@
-### Hi there 👋
+# **Hi, I'm Luis Fernando** 👩‍💻 👋 
+###  
 
-<!--
-**duarteluisf/duarteluisf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I? 
 
-Here are some ideas to get you started:
+* 👩‍💻 Data Scientist 🥰.
+* 📊 Data Analyst
+* 📚 Researcher.
+* 👩‍🎓 Bachelor of Accounting -UFG.
+* 🎓 MBA in Statistic - FGV.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 👩‍💻
+
+* 🐍 Python.
+* 📈 Excel
+* 🧮 Power BI.
+* 🔮 Machine Learning. 
+* 📊 Data Analysis
+
+## Find me around the world :earth_americas:
+
+*  [Linkedin](https://www.linkedin.com/in/luisfoliveiraduarte/)
+
