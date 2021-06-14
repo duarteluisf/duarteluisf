@@ -1,6 +1,8 @@
 # **Hi, I'm Luis Fernando** 👩‍💻 👋 
 ###  
 
+![GitHub Logo]
+
 ## Who am I? 
 
 * 👩‍💻 Data Scientist 🥰.
