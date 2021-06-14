@@ -1,7 +1,7 @@
 # **Hi, I'm Luis Fernando** 👩‍💻 👋 
 ###  
 
-![GitHub Logo]
+![GitHub Logo](ciênciadedados.jpeg)
 
 ## Who am I? 
 
